@@ -6,8 +6,9 @@
 
 ### 🪄 Toolbox
 
-- **Backend** - Flask & FastAPI for 🐍; Hono for 🦕
 - **Frontend** - Vue & Astro
+- **Backend** - Flask & FastAPI for 🐍; Hono for 🦕
+- **DB** - MongoDB & PostgreSQL
 - **Deep Learning** - JAX & PyTorch
 
 ### 📊 GitHub Stats
