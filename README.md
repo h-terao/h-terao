@@ -1,7 +1,7 @@
 ## Hi there, I'm h-terao ✨
 
 - 🇯🇵 Fukui-based IT engineer who loves turning ideas into code
-- Believe in **open-source** & **machine learning**
+- Believe in **machine learning**
 - Develop in 🐍 **Python** & 🦕 **Deno/TypeScript**
 
 ### 🪄 Toolbox
