@@ -6,7 +6,7 @@
 
 ### 🪄 Toolbox
 
-- **Backend** - Flask & FastAPI for Python; Hono for Deno
+- **Backend** - Flask & FastAPI for 🐍; Hono for 🦕
 - **Frontend** - Vue & Astro
 - **Deep Learning** - JAX & PyTorch
 
