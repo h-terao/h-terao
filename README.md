@@ -1,5 +1,7 @@
 # h-terao
 
+Japanese IT engineer
+
 ## Languages
 
 - Python
